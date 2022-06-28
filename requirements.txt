@@ -1,0 +1,4 @@
+Project requirements
+1) Create a search bar
+2) Create a menu
+3) Add an image
